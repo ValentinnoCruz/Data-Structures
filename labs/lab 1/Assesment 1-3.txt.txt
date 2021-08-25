@@ -1,0 +1,18 @@
+Assessment Questions:
+
+1)  How would you change the executable name from main to cselab?
+   
+   g++ main.cpp -o main   ---->   g++ punishment2.cpp -o punishment2
+
+2) What happens when you compile using g++ <source> only?
+ 
+   nothing will change, it will work as intended.
+
+3)  How can you remove the line using namespace std; from your program and
+get it to compile. 
+
+
+Another way use of the scope operator denoted as (::) at every instance in which we declase a certain type.
+
+
+
