@@ -18,10 +18,6 @@ An ability to:
 3. Design, implement, and evaluate a computer-based system, process, component, or program to meet desired needs, and use current techniques, skill, and tools necessary for computing practice.
 4. Apply mathematical foundations, algorithmic principles, and computer science theory to the modeling and design of computer based systems
 
-## Rename a file
-
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
 ## Topics
 
 • **C++:** Began with a crash course in C++ programming, including keyboard and terminal I/O, file I/O, loops, logic constructs (if/then/else), and steadily build up our C++ knowledge as the semester progresses.
